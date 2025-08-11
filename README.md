@@ -2,7 +2,7 @@
 
 ## 💻 Como configurar o GitHub 
 
-#### No terminal, ou no Git Bash:
+#### No terminal ou no Git Bash:
 
     git config --global user.name "Seu Nome"  
     git config --global user.email "seu-email@exemplo.com"  
