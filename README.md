@@ -1,6 +1,6 @@
 # PAM-II-GABRIELLA-ALMEIDA
 
-💻 ## Como configurar o GitHub 
+## 💻 Como configurar o GitHub 
 
 #### No terminal, ou no Git Bash:
 
