@@ -20,7 +20,7 @@
 ## Como criar um projeto Expo
 
 #### Pré-requisitos:  
-Node.js (versão LTS) instalado
+Node.js (versão LTS) instalado  
 VS Code ou qualquer outro editor de código ou IDE preferido instalado
 
 #### No terminal:  
