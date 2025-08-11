@@ -17,7 +17,7 @@
 
 
 
-## Como criar um projeto Expo
+## 📖 Como criar um projeto Expo
 
 #### Pré-requisitos:  
 Node.js (versão LTS) instalado  
